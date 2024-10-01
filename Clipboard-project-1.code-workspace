@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../project-1-Clipboard-website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Clipboard-project-1"
+	}
+}
